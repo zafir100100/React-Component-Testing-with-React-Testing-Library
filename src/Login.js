@@ -40,6 +40,7 @@ const Login = () => {
                     </label>
                     <input
                         id="username"
+                        name="username"
                         type="text"
                         maxLength={50}
                         {...register("username", { required: "Username is required" })}
@@ -56,6 +57,7 @@ const Login = () => {
                     </label>
                     <input
                         id="password"
+                        name="password"
                         type="password"
                         maxLength={50}
                         {...register("password", { required: "Password is required" })}
