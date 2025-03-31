@@ -76,6 +76,10 @@ https://github.com/user-attachments/assets/22f03d70-0a26-409f-b6c2-9ad30eec2dc8
     - `Jest` for running the unit tests.
     - `React Testing Library` for rendering and interacting with the component during tests.
 
+## Screenshot (Application)
+
+![image](https://github.com/user-attachments/assets/46c0da3b-f972-423b-995c-bce69c0dda1a)
+
 ## Screenshot (Report)
 
 ![image](https://github.com/user-attachments/assets/11cda7b8-13a8-4e9e-9551-fdd8c960d2ca)
